@@ -16,7 +16,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.9",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.1.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.16.0",
     "simple-xgrid": "^1.2.5",
     "tailwindcss": "^1.1.4",
